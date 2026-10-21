@@ -1,4 +1,4 @@
-# İşletme tanıtımı
+# TULPAR
 
 Türkçe, mobil uyumlu, HTML ve CSS ile hazırlanmış bir işletme tanıtım sayfası.
 Harici paket, veritabanı, API anahtarı veya derleme işlemi gerektirmez.
